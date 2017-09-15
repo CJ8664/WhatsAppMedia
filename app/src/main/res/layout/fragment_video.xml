@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.cjapps.whatsappmedia.fragments.VideoFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/video_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true"
+        android:fadeScrollbars="true"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:overScrollMode="always"
+        android:soundEffectsEnabled="true" />
+
+</FrameLayout>

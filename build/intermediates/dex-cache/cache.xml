@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\WhatsAppMedia+\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha5\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="e9c2f03f5e8a91877d3b6e3d72881680ac0fbc24">
+        <dex dex="D:\WhatsAppMedia+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha5_17673ee7a7fe416e95681f0a4c02e5c77fda7a90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WhatsAppMedia+\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\WhatsAppMedia+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_9fa9543e868cc8a647c782712ba6c164bdd97a52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WhatsAppMedia+\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="D:\WhatsAppMedia+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_340dfccc2fde53fe5be5864bc39c6a68d3145499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Softwares\ANDROID\android-sdk-windows\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha5\constraint-layout-solver-1.0.0-alpha5.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="73c7b3e257448abfb473f8833b05e7e055cb3fd9">
+        <dex dex="D:\WhatsAppMedia+\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha5_17602b2a0110fa50ee7d299b29916ae779285c39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WhatsAppMedia+\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\WhatsAppMedia+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_f6f7a7002ffd5c9080cca2fa79189c7f3969ebb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WhatsAppMedia+\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\WhatsAppMedia+\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_5b07d2c941fdca98135b11500c6114a85f1a226e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WhatsAppMedia+\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="D:\WhatsAppMedia+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_9e702700ffeb62ad7b3d3b18ac070329a5534534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WhatsAppMedia+\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="D:\WhatsAppMedia+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_c67829d1591a199ab23aa50aa2dadfc0915a4a53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WhatsAppMedia+\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\WhatsAppMedia+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_8233be947beb08d0d55a07eb9925dbb6b65d39af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WhatsAppMedia+\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="585906450e35a0bce5ef86ba7a33e65bf6a77eae">
+        <dex dex="D:\WhatsAppMedia+\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_be4f31220f79000207bd7e9a9d1be5f410345bb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WhatsAppMedia+\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="c60f31c352daad9beeef9e658378bcf3de1ec91a">
+        <dex dex="D:\WhatsAppMedia+\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3eef0cd18f81728dfd1dfabeb9c484f54964259f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\WhatsAppMedia+\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\WhatsAppMedia+\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_0be6d94f5be51243eb1a180e9c40d5e47ab92339\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Softwares\ANDROID\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\WhatsAppMedia+\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_277860768230fb5fcf62e2ebe9487d4e8701c8bd\classes.dex" />
+    </item>
+
+</items>
